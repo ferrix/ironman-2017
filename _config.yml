@@ -60,3 +60,5 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Treeniä yhden pienen päätöksen perässä
 purpose: []
+
+theme: jekyll-theme-cayman
